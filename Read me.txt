@@ -1,1 +1,1 @@
-this file contains personal practice.
+This repository contains only personal notes of what i learn. 
